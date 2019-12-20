@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<drinks>
+    <tea teaType='GREEN'>
+        <drink name='A' count='23' price='34'/>
+    </tea>
+    <tea teaType='GREEN'>
+        <drink name='B' count='45' price='64'/>
+    </tea>
+    <tea teaType='BLACK'>
+        <drink name='C' count='65' price='656'/>
+    </tea>
+    <coffee coffeeType ='GROUND'>
+        <drink name='D' count='65' price='656'/>
+    </coffee>
+    <coffee coffeeType ='GROUND'>
+        <drink name='AA' count='643' price='65632'/>
+    </coffee>
+
+</drinks>
